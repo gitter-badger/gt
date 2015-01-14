@@ -1,4 +1,4 @@
-function Gtcode () {
+function Gt () {
 	var _isSpace, _enChars, _faChars;
 
 	_isSpace = function(char) {
