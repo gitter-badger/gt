@@ -1,7 +1,7 @@
 # gtcode
 GT Language Encoder/Decoder 
 
-GT is a envented language, this language invent by my love <3 for send geeky love sucure messagge to me
+GT is a envented language, this language invent by my love <3 for send geeky love secure messagge to me
 I write script by javascript for decode and encode gt language
 GT Language Encoder/Decoder Convert persian to gt language and vice versa
 
