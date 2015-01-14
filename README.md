@@ -7,7 +7,7 @@ GT Language Encoder/Decoder Convert persian to gt language and vice versa
 
 #Usage
 
-download the package and reference the JavaScript and CSS files manually:
+download the package and reference the JavaScript file manually:
 
 ```html
 <script src="path/to/gt.js"></script>
