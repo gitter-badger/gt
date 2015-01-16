@@ -1,4 +1,6 @@
 # gtcode
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/arastu/gt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 GT Language Encoder/Decoder 
 
 GT is a envented language, this language invent by my love <3 for send geeky love secure messagge to me
